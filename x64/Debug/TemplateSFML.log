@@ -1,0 +1,53 @@
+﻿  Ball.cpp
+c:\users\jeanl\source\repos\cassebrique\ball.cpp(9): warning C4244: 'argument' : conversion de 'time_t' en 'unsigned int', perte possible de données
+c:\users\jeanl\source\repos\cassebrique\ball.cpp(18): warning C4244: '=' : conversion de 'double' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+c:\users\jeanl\source\repos\cassebrique\ball.cpp(19): warning C4244: '=' : conversion de 'double' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+c:\users\jeanl\source\repos\cassebrique\ball.cpp(24): warning C4244: '=' : conversion de 'int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+c:\users\jeanl\source\repos\cassebrique\ball.cpp(25): warning C4244: '=' : conversion de 'int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+c:\users\jeanl\source\repos\cassebrique\ball.cpp(29): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+c:\users\jeanl\source\repos\cassebrique\ball.cpp(88): warning C4244: '=' : conversion de 'T' en 'T', perte possible de données
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+c:\users\jeanl\source\repos\cassebrique\ball.cpp(99): warning C4244: '=' : conversion de 'T' en 'T', perte possible de données
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+  main.cpp
+c:\users\jeanl\source\repos\cassebrique\main.cpp(24): warning C4244: 'argument' : conversion de 'T' en 'T', perte possible de données
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+  Génération de code en cours...
+  TemplateSFML.vcxproj -> C:\Users\jeanl\source\repos\CasseBrique\x64\Debug\TemplateSFML.exe
